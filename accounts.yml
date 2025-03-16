@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker Webhook APIs "
+  message: "Welcome to EazyBank accounts related docker webhook-change APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
